@@ -1,0 +1,23 @@
+.todo {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.todo__main {
+  flex: 1;
+}
+
+
+/*
+// To move footer to the end
+.todo {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.todo__main {
+  flex: 1;
+}
+*/

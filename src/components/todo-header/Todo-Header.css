@@ -1,0 +1,9 @@
+.todo-header {
+  padding: 20px 0;
+}
+
+.todo-header__title {
+  font-size: 32px;
+  color: #FFF;
+  text-align: center;
+}

@@ -1,0 +1,7 @@
+.todo-content {
+  margin-top: 20px;
+}
+
+.todo-content__list {
+  list-style: none;
+}

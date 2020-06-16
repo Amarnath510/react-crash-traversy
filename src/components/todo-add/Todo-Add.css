@@ -1,0 +1,13 @@
+.todo-add {
+  display: flex;
+  margin-bottom: 4px;
+}
+
+.todo-add__input-text {
+  flex: 10;
+  padding: 5px 10px;
+}
+
+.todo-add__input-submit-btn {
+  flex: 1;
+}

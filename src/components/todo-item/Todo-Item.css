@@ -1,0 +1,28 @@
+.todo-item {
+  padding: 8px 12px;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid black;
+  color: white;
+}
+
+.todo-item:hover {
+  background: #CCC;
+  color: #000;
+}
+
+.todo-item__check {
+  margin-right: 8px;
+}
+
+.todo-item__strike {
+  text-decoration: line-through;
+}
+
+.todo-item__btn {
+  background: rgb(230, 106, 106);
+  color: white;
+  padding: 5px;
+  cursor: pointer;
+  border-radius: 5px;
+}
